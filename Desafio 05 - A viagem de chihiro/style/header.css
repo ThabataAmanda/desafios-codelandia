@@ -1,0 +1,51 @@
+header {
+    max-width: 1100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem 0;
+    margin: 0 auto;
+}
+
+.logo-header {
+    width: 10rem;
+}
+
+.navigation {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.navigation li {
+    cursor: pointer;
+}
+
+.animation-li:hover {
+    -webkit-animation: pulsate 1s ease-in-out infinite both;
+    animation: pulsate 1s ease-in-out infinite both;
+}
+
+.home {
+    border-left: 2px solid #ffffff59;
+    padding-left: 10px;
+}
+
+@keyframes pulsate {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+
+    50% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
