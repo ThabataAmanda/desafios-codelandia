@@ -1,0 +1,11 @@
+@import "global/global.css";
+@import "global/header.css";
+@import "global/footer.css";
+
+@import "components/variables.css";
+
+@import "home/index.css";
+@import "home/nav.css";
+@import "home/cards.css";
+
+@import "global/responsive.css";

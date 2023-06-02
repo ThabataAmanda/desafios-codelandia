@@ -1,0 +1,33 @@
+@media (max-width: 900px) {
+
+    .title {
+        font-size: 3rem;
+    }
+
+    .sub-title {
+        font-size: 1rem;
+    }
+
+
+    .container-cards__carrossel {
+        grid-template-columns: 1fr;
+    }
+
+    .content-right a{
+        border: none;
+        width: 40px;
+        padding: 0;
+        pointer-events: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .text {
+        display: none;
+    }
+
+    .icon-footer {
+        display: inline-block;
+    }
+}
