@@ -16,10 +16,10 @@ Atualmente essas são as seguintes tecnologias foram usadas na construção do p
 - CSS <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="18">
 
 ### 🧩 Meu design da página inicial: 
-<a target="_blank" href="https://www.figma.com/file/5i5sSzTCHr49FVUJBFuZbE/home-codelandia?type=design&node-id=0%3A1&t=OBYytEV09xJaGBCw-1"> Figma </a>
+Link do <a target="_blank" href="https://www.figma.com/file/5i5sSzTCHr49FVUJBFuZbE/home-codelandia?type=design&node-id=0%3A1&t=OBYytEV09xJaGBCw-1"> Figma </a>
 
 ### 🚧 Projeto:
-Link do Projeto: <a  target="_blank" href="https://desafios-codelandia-thabata.netlify.app">Aqui</a>
+Link do <a  target="_blank" href="https://desafios-codelandia-thabata.netlify.app">Projeto</a>
 
 <hr>
 
