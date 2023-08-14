@@ -20,6 +20,10 @@
   --font-diff: 'Bebas Neue', sans-serif;
 }
 
+.d-none {
+  display: none !important;
+}
+
 .title {
   font-size: 5.9rem;
   color: var(--white);

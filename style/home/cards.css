@@ -36,6 +36,7 @@
 
 .button-carossel {
     cursor: pointer;
+    display: none;
 }
 
 .button-carossel:hover {
