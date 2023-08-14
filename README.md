@@ -7,6 +7,8 @@
 ## 🧠 Desafios 
 | N.º | Título |
 | :----- | :---- |
+| Desafio 02 | JordanShoes |
+| Desafio 04 | Login |
 | Desafio 05 | Studio Ghibli |
 
 ### 🛠 Tecnologias
